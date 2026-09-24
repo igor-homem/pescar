@@ -347,14 +347,17 @@ O jogo combina exploração, aprendizado e interação, tornando o processo de c
       </p>
     </div>
 
-    <a
-      href="http://localhost:8080/"
-      class="pixel-button pixel-button-primary"
-      target="_blank"
-      rel="noopener"
-    >
-      JOGAR AGORA →
-    </a>
+    
+  <a
+    href="jogo/game.html"
+    class="pixel-button pixel-button-primary"
+    target="_blank"
+    rel="noopener"
+  >
+    JOGAR AGORA →
+  </a>
+
+
   </div>
 </section>
 
