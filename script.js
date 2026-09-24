@@ -349,7 +349,7 @@ O jogo combina exploração, aprendizado e interação, tornando o processo de c
 
     
   <a
-    href="jogo/game.html"
+    href="jogo/index.html"
     class="pixel-button pixel-button-primary"
     target="_blank"
     rel="noopener"
